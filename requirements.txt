@@ -6,3 +6,4 @@ rapidfuzz
 nltk
 scikit-learn
 pandas
+python-multipart
