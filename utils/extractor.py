@@ -11,6 +11,7 @@ from rapidfuzz import process, fuzz
 # 0. INITIAL SETUP
 # -------------------------------------------------
 nltk.download('punkt', quiet=True)
+nltk.download('punkt_tab', quiet=True) 
 nltk.download('stopwords', quiet=True)
 
 # -------------------------------------------------
