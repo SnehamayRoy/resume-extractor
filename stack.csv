@@ -1,0 +1,224 @@
+stack,tech
+AI/ML,Keras
+AI/ML,NumPy
+AI/ML,Pandas
+AI/ML,PyTorch
+AI/ML,Scikit-learn
+AI/ML,TensorFlow
+Cloud,APT
+Cloud,AWS
+Cloud,Alibaba Cloud
+Cloud,Amazon Web Services (AWS)
+Cloud,Ansible
+Cloud,Bun
+Cloud,Cargo
+Cloud,Chocolatey
+Cloud,Cloudflare
+Cloud,Colocation
+Cloud,Composer
+Cloud,Databricks
+Cloud,Datadog
+Cloud,Digital Ocean
+Cloud,DigitalOcean
+Cloud,Docker
+Cloud,Firebase
+Cloud,Fly.io
+Cloud,Google Cloud
+Cloud,Google Cloud Platform
+Cloud,Gradle
+Cloud,Heroku
+Cloud,Hetzner
+Cloud,Homebrew
+Cloud,IBM Cloud
+Cloud,IBM Cloud Or Watson
+Cloud,IBM Cloud or Watson
+Cloud,Kubernetes
+Cloud,Linode
+Cloud,MSBuild
+Cloud,Make
+Cloud,Managed Hosting
+Cloud,Maven (build tool)
+Cloud,Microsoft Azure
+Cloud,Netlify
+Cloud,New Relic
+Cloud,Ninja
+Cloud,NuGet
+Cloud,OVH
+Cloud,OpenShift
+Cloud,OpenStack
+Cloud,Oracle Cloud Infrastructure
+Cloud,Oracle Cloud Infrastructure (OCI)
+Cloud,Pacman
+Cloud,Pip
+Cloud,Podman
+Cloud,Poetry
+Cloud,Prometheus
+Cloud,PythonAnywhere
+Cloud,Railway
+Cloud,Render
+Cloud,Scaleway
+Cloud,Splunk
+Cloud,Supabase
+Cloud,Terraform
+Cloud,VMware
+Cloud,Vercel
+Cloud,Vite
+Cloud,Vultr
+Cloud,Webpack
+Cloud,Yandex Cloud
+Cloud,Yarn
+Cloud,now Akamai
+Cloud,npm
+Cloud,pnpm
+Database,Amazon Redshift
+Database,BigQuery
+Database,Cassandra
+Database,Clickhouse
+Database,Cloud Firestore
+Database,Cockroachdb
+Database,Cosmos DB
+Database,Couch DB
+Database,CouchDB
+Database,Couchbase
+Database,Databricks SQL
+Database,Datomic
+Database,DuckDB
+Database,DynamoDB
+Database,Dynamodb
+Database,Elasticsearch
+Database,EventStoreDB
+Database,Firebase
+Database,Firebase Realtime Database
+Database,Firebird
+Database,H2
+Database,IBM DB2
+Database,InfluxDB
+Database,MariaDB
+Database,Microsoft Access
+Database,Microsoft SQL Server
+Database,MongoDB
+Database,MySQL
+Database,Neo4J
+Database,Neo4j
+Database,Oracle
+Database,Pocketbase
+Database,PostgreSQL
+Database,Presto
+Database,RavenDB
+Database,Redis
+Database,SQLite
+Database,Snowflake
+Database,Solr
+Database,Supabase
+Database,TiDB
+Database,Valkey
+GameDev,Unity
+GameDev,Unreal Engine
+Language,APL
+Language,Ada
+Language,Apex
+Language,Assembly
+Language,Bash
+Language,C
+Language,C#
+Language,C++
+Language,COBOL
+Language,CSS
+Language,Clojure
+Language,Cobol
+Language,Crystal
+Language,Dart
+Language,Delphi
+Language,Elixir
+Language,Erlang
+Language,F#
+Language,Flow
+Language,Fortran
+Language,GDScript
+Language,Gleam
+Language,Go
+Language,Groovy
+Language,HTML
+Language,Haskell
+Language,Java
+Language,JavaScript
+Language,Julia
+Language,Kotlin
+Language,LISP
+Language,Lisp
+Language,Lua
+Language,MATLAB
+Language,Matlab
+Language,MicroPython
+Language,Mojo
+Language,Nim
+Language,Node.js
+Language,OCaml
+Language,Objective-C
+Language,PHP
+Language,Perl
+Language,PowerShell
+Language,Prolog
+Language,Python
+Language,R
+Language,Raku
+Language,Ruby
+Language,Rust
+Language,SAS
+Language,SQL
+Language,Scala
+Language,Shell
+Language,Shell (all shells)
+Language,Solidity
+Language,Swift
+Language,TypeScript
+Language,VBA
+Language,Visual Basic (.Net)
+Language,Zephyr
+Language,Zig
+Systems,C++
+Systems,Go
+Systems,Rust
+Web,ASP.NET
+Web,ASP.NET CORE
+Web,ASP.NET Core
+Web,Angular
+Web,Angular.js
+Web,AngularJS
+Web,Astro
+Web,Axum
+Web,Blazor
+Web,CodeIgniter
+Web,Deno
+Web,Django
+Web,Drupal
+Web,Elm
+Web,Express
+Web,FastAPI
+Web,Fastify
+Web,Flask
+Web,Gatsby
+Web,Htmx
+Web,Laravel
+Web,Lit
+Web,NestJS
+Web,Next.js
+Web,Node.js
+Web,Nuxt.js
+Web,Phoenix
+Web,Play Framework
+Web,Qwik
+Web,React
+Web,React.js
+Web,Remix
+Web,Ruby on Rails
+Web,Solid.js
+Web,Spring
+Web,Spring Boot
+Web,Strapi
+Web,Svelte
+Web,Symfony
+Web,Vue.js
+Web,WordPress
+Web,Yii 2
+Web,jQuery
